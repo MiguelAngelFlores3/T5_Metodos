@@ -8,6 +8,24 @@
 
 <h3 align = "center"> <font color = "darkorange" size = "+6"  font face = "bauhaus 93">  Indice </font> </h3>
 
+<header> <font color = "red" size="+1" font face = "aharoni">
+    <nav class = "navegacion">
+      <ul class = "Indice">
+        <li> <a href = "#Descripción"> Descripción </a> <br> </li>
+        <li> <a href = "#Temario"> Temario </a> <br> </li>
+        <li> <a href = "#Métodos"> Métodos </a> <br> </li>
+          <ul class = "subindice">
+              <li> <a href="# Método de Interpolacion de Lagrange "> Método de Interpolacion de Lagrange </a> <br> </li>
+              <li> <a href="# Método de Interpolacion de Newton "> Método de Interpolacion de Newton </a> <br> </li>
+              <li> <a href="# Método de Interpolacion de Regresión"> Método de Interpolacion de Regresión </a> <br> </li> 
+              <li> <a href="# Método de Interpolacion de Correlación "> Método de Interpolacion de Correlación </a> <br> </li> 
+            <li> <a href="# Método de Interpolacion de Mínimos cuadrados "> Método de Interpolacion de Mínimos cuadrados </a> <br> </li> 
+            <li> <a href="# Método de Interpolacion Lineal "> Método de Interpolacion Lineal </a> <br> </li> 
+          </ul>
+      </ul>
+    </nav>
+</font> </header>
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 
